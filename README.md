@@ -1,4 +1,4 @@
-# cvproj
+# Image Stitching
 
 ## Project Background
 * 주제: **이미지 스티칭(Image Stitching)** 과정 직접 구현하기<br/>
